@@ -3,3 +3,4 @@ MLO
 u-boot-main
 *.old
 *~
+rel/
