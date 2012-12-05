@@ -8,8 +8,8 @@ set up the beagleboard for HUGnet.   This patch does the following:
 3. Enables bootz*
 4. Enables raw ramdisk images*
 
-* These are to support the Ubuntu images that I am using for HUGnet on the Beagleboard.
-More information can be found at http://elinux.org/BeagleBoardUbuntu .
+ * These are to support the Ubuntu images that I am using for HUGnet on the Beagleboard.
+ More information can be found at http://elinux.org/BeagleBoardUbuntu .
 
 ## Applying the patch
 
