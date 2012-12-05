@@ -4,3 +4,4 @@ u-boot-main
 *.old
 *~
 rel/
+*.kate-swp
